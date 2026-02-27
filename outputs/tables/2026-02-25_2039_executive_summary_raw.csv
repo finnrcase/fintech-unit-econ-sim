@@ -1,0 +1,9 @@
+Metric,Value_raw
+Expected Profit,-1616830.776001889
+Probability of Loss,0.86675
+VaR (5%),-6695587.155031578
+Expected Shortfall (5%),-8095832.23782552
+Required Equity (ES),8095832.23782552
+RAROC,-0.3511961843254669
+Break-Even APR,0.2090909090909091
+APR for 15% RAROC,0.222

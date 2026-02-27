@@ -1,0 +1,24 @@
+# Python / virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Outputs
+# Keep generated outputs for portfolio visibility
+# (comment out if you want to ignore them)
+
+# outputs/figures/*
+# outputs/tables/*
+# outputs/reports/*
+
+# Keep the folders in git
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep
+!outputs/reports/.gitkeep
