@@ -1,9 +1,9 @@
 ###  Live App  
  https://fintech-unit-econ-sim-y89oapbghqh6hs4ygbn68o.streamlit.app/
 
-Lending Unit Economics & Capital Risk Simulator
+### Lending Unit Economics & Capital Risk Simulator
 
-Summary / Overview
+# Summary / Overview
 This project is a simulator for structured credit risk and capital adequacy for a consumer lending product.
 
 The model evaluates unit economics under uncertainty by using the following:
