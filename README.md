@@ -1,3 +1,6 @@
+### 🔗 Live App  
+👉 https://fintech-unit-econ-sim-____.streamlit.app
+
 Lending Unit Economics & Capital Risk Simulator
 
 Summary / Overview
@@ -94,7 +97,9 @@ outputs/
   tables/
   reports/
 
-Running the Interactive App
+APP: https://fintech-unit-econ-sim-y89oapbghqh6hs4ygbn68o.streamlit.app/
+
+Running the Interactive App (Local)
 
 Clone the repository and launch the Streamlit interface locally:
 
