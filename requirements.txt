@@ -1,8 +1,11 @@
+streamlit>=1.33,<2
+altair>=5,<6
+
 pandas
 numpy
 matplotlib
 scipy
 pydantic
-streamlit
+
 pytest
 jupyter
