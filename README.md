@@ -3,7 +3,8 @@
 
 # Lending Unit Economics & Capital Risk Simulator
 
-Summary / Overview
+### Summary / Overview
+
 This project is a simulator for structured credit risk and capital adequacy for a consumer lending product.
 
 The model evaluates unit economics under uncertainty by using the following:
@@ -17,7 +18,7 @@ The model evaluates unit economics under uncertainty by using the following:
 
 The goal of this project is to determine if a lending product is economically viable after taking into account downside risk and capital constraints.
 
-Model Stages
+### Model Stages
 
 Deterministic Unit Economics
 
@@ -62,7 +63,7 @@ Findings:
 - Capital requirements increase 2.6x as macro correlation intensifies
 
 
-Insights:
+### Insights:
 The biggest driver of risk is default rate
 Ignoring macro correlations understates capital requirements
 Capital adjusted return determines viability, simply looking at expected profitability is not a sufficient metric
@@ -78,7 +79,7 @@ Capital adjusted return determines viability, simply looking at expected profita
 | Break-even APR | 20.9% |
 | APR for 15% RAROC | 22.2% |
 
-Project Structure
+### Project Structure
 
 notebooks/
   01_deterministic_model.ipynb
