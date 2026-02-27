@@ -1,5 +1,5 @@
 ###  Live App  
- https://fintech-unit-econ-sim-____.streamlit.app
+ https://fintech-unit-econ-sim-y89oapbghqh6hs4ygbn68o.streamlit.app/
 
 Lending Unit Economics & Capital Risk Simulator
 
